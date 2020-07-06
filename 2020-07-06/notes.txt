@@ -1,0 +1,18 @@
+Topics discussed in today's session
+
+talked about react and react-dom
+
+how to pass data from parent component to child
+
+how to pass data from child to parent (using callback function)
+
+used props and states to pass data
+
+experienced how storing data in state is re-rendering the component
+
+only using state will re-render the component and thus it prints out the current updated value
+
+will see how to create multiple components and route through each using react-
+router-dom library (next session)
+
+will see how to make service calls (next session)

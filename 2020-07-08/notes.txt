@@ -1,0 +1,11 @@
+Topics discussed in today's session
+
+how to create multiple components and route through each using react-router-dom library
+
+created a login form component and also enabled browser validations instead prevented default reload using preventDefault(); and adding onSubmit on <form> tag instead of the button
+
+performed routing through <Link> and also conditional routing by this.props.history.push('/wherever')
+
+multiple ways to pick up the input field data and store it in state (using a function and also directly to setState() in <input> onChange)
+
+will discuss about api service calls both Fetch API offered by the browser and also using Axios library (next session) 

@@ -1,11 +1,13 @@
 Topics discussed in today's session
 
-how to create multiple components and route through each using react-router-dom library
+about api service calls using both Fetch API offered by javascript and also Axios library
 
-created a login form component and also enabled browser validations instead prevented default reload using preventDefault(); and adding onSubmit on <form> tag instead of the button
+noticed how different responses were in both the methods where one responded with a promise and axios with a larger dataset
 
-performed routing through <Link> and also conditional routing by this.props.history.push('/wherever')
+discussed on how to use conditional rendering (using ternary operator and &&)
 
-multiple ways to pick up the input field data and store it in state (using a function and also directly to setState() in <input> onChange)
+iterated a bunch of data (an entire card component) using the map() operator repeatedly
 
-will discuss about api service calls both Fetch API offered by the browser and also using Axios library (next session) 
+created a custom client for axios function call that used create() to make the connection
+
+all the operations were created with a working post and get api service for login and generated token was used to check and route to certain page (or error page instead) 

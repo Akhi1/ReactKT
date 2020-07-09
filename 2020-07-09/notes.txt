@@ -1,0 +1,9 @@
+Topics discussed in today's session
+
+how to install and use chartjs library using react-chart-js2
+
+created line, pie and doughnut charts using the data format provided in documentation
+
+also discussed how to pick/fetch dynamic data and labels received from services on button click
+
+monitored and fixed issues faced in Angular to React project conversion (login component)
